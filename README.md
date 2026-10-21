@@ -17,10 +17,10 @@ API que consume el modelo de la neurona MP entrenado con el dataset UCI *Breast 
 
 ```
 api-cancer-mp/
-├── notebook_entrenamiento.ipynb   # Parte 1 (entrenamiento)
-├── modelo_mp.json                 # Modelo entrenado (artefacto)
-├── main.py                        # API FastAPI
-├── test_api.py                    # Pruebas automáticas
+├── API_Arquitectura_Deteccion_Cancer.ipynb    # Parte 1 (entrenamiento)
+├── modelo_mp.json                             # Modelo entrenado (artefacto)
+├── main.py                                    # API FastAPI
+├── test_api.py                                # Pruebas automáticas
 ├── requirements.txt
 ├── Dockerfile
 └── README.md
