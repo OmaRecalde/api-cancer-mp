@@ -1,0 +1,15 @@
+{
+    "features": [
+        "worst perimeter",
+        "worst radius",
+        "worst area",
+        "worst concave points"
+    ],
+    "cortes": {
+        "worst perimeter": 139.85500000000002,
+        "worst radius": 20.53,
+        "worst area": 1808.6,
+        "worst concave points": 0.1455
+    },
+    "threshold": 4
+}
