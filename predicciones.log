@@ -1,1 +1,0 @@
-2026-10-20 21:41:09,604 | INFO | predict | entrada={'worst_perimeter': 93.63, 'worst_radius': 14.45, 'worst_area': 624.1, 'worst_concave_points': 0.08045} | resultado=Benigno
